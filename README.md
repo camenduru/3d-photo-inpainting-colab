@@ -15,6 +15,8 @@ For the movement control please use /content/3d-photo-inpainting/argument.yml fi
 x_shift_range: [0.00, 0.00, -0.015, -0.015]
 y_shift_range: [0.00, 0.00, -0.015, -0.00]
 z_shift_range: [-0.05, -0.05, -0.05, -0.05]
+traj_types: ['double-straight-line', 'double-straight-line', 'circle', 'circle']
+video_postfix: ['dolly-zoom-in', 'zoom-in', 'circle', 'swing']
 ```
 
 ## Main Repo
