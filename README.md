@@ -20,7 +20,8 @@ video_postfix: ['dolly-zoom-in', 'zoom-in', 'circle', 'swing']
 ```
 
 ```
-Calculating four movements at the same time may require High-RAM 😐 If you are using free colab calculate them one by one like this
+Calculating four movements at the same time may require High-RAM 😐
+If you are using free colab calculate them one by one like this
 
 x_shift_range: [-0.015]
 y_shift_range: [-0.015]
