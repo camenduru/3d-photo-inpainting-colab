@@ -38,4 +38,6 @@ https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/ab5c41de-
 
 https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/f6de5902-3f6b-456f-a588-bc2b07e4776e
 
+https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/76e6e599-874d-420c-beda-13d877cc28a5
+
 
