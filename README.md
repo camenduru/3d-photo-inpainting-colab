@@ -8,7 +8,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/3d-photo-inpainting-colab/blob/main/3d_photo_inpainting_colab.ipynb) | 3d-photo-inpainting-colab
 
 ## Tutorial
-'circle' and 'swing' may need High-RAM 😐
 
 ```
 For the movement control please use /content/3d-photo-inpainting/argument.yml file
@@ -18,6 +17,16 @@ y_shift_range: [0.00, 0.00, -0.015, -0.00]
 z_shift_range: [-0.05, -0.05, -0.05, -0.05]
 traj_types: ['double-straight-line', 'double-straight-line', 'circle', 'circle']
 video_postfix: ['dolly-zoom-in', 'zoom-in', 'circle', 'swing']
+```
+
+```
+'circle' and 'swing' may need High-RAM 😐 If you are using free colab calculate them one by one like this
+
+x_shift_range: [-0.015]
+y_shift_range: [-0.015]
+z_shift_range: [-0.05]
+traj_types: ['circle']
+video_postfix: ['circle']
 ```
 
 ## Main Repo
