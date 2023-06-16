@@ -40,9 +40,13 @@ https://shihmengli.github.io/3D-Photo-Inpainting/
 https://arxiv.org/abs/2004.04727
 
 ## Output
-Artist: za15704080 ❤
+Artist: za15704080 ❤ <br />
+
+Input Image
 
 ![test](https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/8e541e83-f82a-43ea-991c-6f148564c0bf)
+
+Output Video
 
 https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/ab5c41de-5174-48b4-a887-51fd7f2f5133
 
