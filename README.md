@@ -8,6 +8,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/3d-photo-inpainting-colab/blob/main/3d_photo_inpainting_colab.ipynb) | 3d-photo-inpainting-colab
 
 ## Tutorial
+'circle' and 'swing' may need High-RAM 😐
 
 ```
 For the movement control please use /content/3d-photo-inpainting/argument.yml file
