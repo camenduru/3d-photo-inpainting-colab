@@ -5,7 +5,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/3d-photo-inpainting-colab/blob/main/3d_photo_inpainting_colab.ipynb) | ECON_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/3d-photo-inpainting-colab/blob/main/3d_photo_inpainting_colab.ipynb) | 3d-photo-inpainting-colab
 
 ## Main Repo
 https://github.com/vt-vl-lab/3d-photo-inpainting
