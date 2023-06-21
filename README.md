@@ -8,6 +8,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/3d-photo-inpainting-colab/blob/main/3d_photo_inpainting_colab.ipynb) | 3d-photo-inpainting-colab
 
 ## Tutorial
+```
+Please use JPG files 
+```
+
+![image](https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/5d6321a1-3b98-4140-b989-cb1b0e49e2c8)
 
 ```
 For the movement control please use /content/3d-photo-inpainting/argument.yml file
