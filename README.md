@@ -45,7 +45,11 @@ https://shihmengli.github.io/3D-Photo-Inpainting/
 https://arxiv.org/abs/2004.04727
 
 ## Output
-Artist: za15704080 ❤ <br />
+Artist: AYAYA@discord ❤
+
+https://github.com/camenduru/3d-photo-inpainting-colab/assets/54370274/2b58935f-c858-4420-a0e2-2d7ea076f684
+
+Artist: za15704080@discord ❤ <br />
 
 Input Image
 
